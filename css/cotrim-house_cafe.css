@@ -12,6 +12,16 @@ body {
     background-color: #666;
 }
 
+.whatsapp
+{
+    svg{fill:#00ff00};
+}
+
+.email
+{
+    svg{fill:#000000};
+}
+
 p a {
 	color: #00e5ff;
 }
