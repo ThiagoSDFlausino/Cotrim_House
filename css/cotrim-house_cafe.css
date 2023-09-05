@@ -14,12 +14,12 @@ body {
 
 .whatsapp
 {
-    svg{fill:#00ff00};
+    color:#00ff00
 }
 
 .email
 {
-    svg{fill:#000000};
+    color: #000000
 }
 
 p a {
