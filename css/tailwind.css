@@ -409,6 +409,12 @@ hr {
  * https://github.com/tailwindcss/tailwindcss/issues/362
  */
 
+.imgteste
+{
+    width: 100px;
+    height: 100px;
+}
+
 img {
   border-style: solid;
 }
@@ -1010,6 +1016,10 @@ video {
 
 .leading-8 {
   line-height: 2rem;
+}
+
+.teste {
+  flex: auto;
 }
 
 .text-white {
